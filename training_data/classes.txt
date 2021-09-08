@@ -1,0 +1,9 @@
+content
+content_point
+h2_heading
+table
+h3_heading
+h4_heading
+h5_heading
+h1_heading
+image
